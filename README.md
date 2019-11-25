@@ -12,3 +12,7 @@ This repository is for learning selenium with python steps by steps
    https://github.com/realariful/seleniumwithpython/blob/master/SwP_tut5.py
 6. Implicit Wait in Selenium :
    https://github.com/realariful/seleniumwithpython/blob/master/SwP_tut6.py
+7. Explicit Wait
+   https://github.com/realariful/seleniumwithpython/blob/master/SwP_tut7.py
+8. Input Boxes
+   https://github.com/realariful/seleniumwithpython/blob/master/SwP_tut8_Input_Boxes.py
